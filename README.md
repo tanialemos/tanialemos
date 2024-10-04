@@ -1,4 +1,4 @@
-## Welcome to my GitHub 👋
+<h1 align="center">Welcome to my GitHub 👋</h1>
 
 <!--
 **tanialemos/tanialemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-From software development to data science, this github account is really just a collection of unfinished experiments.
+<p align="center">From software development to data science, this github account is really just a collection of unfinished experiments.</p>
 
 <!--
 [![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanialemos)](https://github.com/tanialemos/github-readme-stats)
