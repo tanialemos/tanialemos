@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 From software development to data science, this github account is really just a collection of unfinished experiments.
+
+<!--
+[![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanialemos)](https://github.com/tanialemos/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanialemos&layout=donut&theme=vue-dark)](https://github.com/tanialemos/github-readme-stats)
